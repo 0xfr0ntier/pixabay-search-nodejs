@@ -23,7 +23,7 @@ git clone <pixabay-search-nodejs-repo>
 
 npm install
 ```
-Add your `API_KEY` and `PORT` in `server.js`, then run.
+Add your Pixabay `API_KEY` and `PORT` in `server.js`, then run.
 
 ```sh
 npm start
