@@ -32,10 +32,6 @@ app.get("/", (req, res) => {
     res.json({ msg: "React app route" });
 });
 
-app.get("/users", (req, res) => {
-    res.json(database.users);
-});
-
 app.post("/register", (req, res) => {
     const { email, name, password } = req.body;
 
@@ -73,7 +69,7 @@ app.get("/profile/:id", (req, res) => {
     res.status(404).json({ msg: "User was not found" });
 });
 
-app.get("/image/:id/:query", (req, res) => {
+app.get("/image/:query", (req, res) => {
     const id = Number(req.params.id);
     const query = req.params.query.split(" ").join("+");
 
