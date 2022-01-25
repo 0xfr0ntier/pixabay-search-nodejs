@@ -11,7 +11,7 @@ The components is organized into three categories:
 2. `/register` - Register endpoint.
 3. `/signin` - Signing In endpoint.
 4. `/profile/:id` - Getting user profile data by id.
-5. `/image/:query` - Searching for images using query.
+5. `/image/:id/:query` - Searching images using `query`.
 
 ## Running Server
 
