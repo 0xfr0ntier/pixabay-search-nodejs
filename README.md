@@ -16,7 +16,7 @@ The components is organized into three categories:
 ## Running Server
 
 
-First, clone this [Repo](https://github.com/0xfr0ntier/pixabay-search-nodejs).
+Clone this [Repo](https://github.com/0xfr0ntier/pixabay-search-nodejs).
 
 ```sh
 git clone <pixabay-search-nodejs-repo>
