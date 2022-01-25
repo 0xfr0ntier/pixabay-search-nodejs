@@ -1,5 +1,5 @@
 
-# [Pixabay Search](https://github.com/0xfr0ntier/pixabay-search-nodejs) &middot; ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# [Pixabay Search](https://github.com/0xfr0ntier/pixabay-search-nodejs) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/0xfr0ntier/pixabay-search-nodejs/blob/main/LICENSE)
 
 This repo contains the backend of Pixabay Search project, which allows an image search through [Pixabay API](https://pixabay.com/api/docs/). Built using [NodeJS](https://github.com/nodejs/node).
 
