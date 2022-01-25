@@ -10,7 +10,7 @@ The components is organized into three categories:
 1. `/` - Home route, serves the [app](https://github.com/0xfr0ntier/pixabay-search-react).
 2. `/register` - Register endpoint.
 3. `/signin` - Signing In endpoint.
-4. `/profile/:id` - Getting user profile data by id.
+4. `/profile/:id` - Getting user profile data using `id`.
 5. `/image/:id/:query` - Searching images using `query`.
 
 ## Running Server
