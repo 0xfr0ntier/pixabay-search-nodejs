@@ -3,9 +3,7 @@
 
 This repo contains the backend of Pixabay Search project, which allows an image search through [Pixabay API](https://pixabay.com/api/docs/). Built using [NodeJS](https://github.com/nodejs/node).
 
-## API Endpoint Tour
-
-The components is organized into three categories: 
+## API Endpoint Tour 
 
 1. `/` - Home route, serves the [app](https://github.com/0xfr0ntier/pixabay-search-react).
 2. `/register` - Register endpoint.
